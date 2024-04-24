@@ -1,0 +1,6 @@
+[submodule "software"]
+	path = software
+	url = https://github.com/AlvaroChaval/software.git
+[submodule "software2"]
+	path = software2
+	url = https://github.com/AlvaroChaval/software2.git
